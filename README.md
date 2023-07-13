@@ -18,6 +18,8 @@ Each script in this repository serves a specific purpose. To use a script, follo
 
 Open your Unity project.
 Locate the script you want to use in the Unity Editor's Project window.
+<font color="red">This text is red.</font>
+
 <span style="color: red;">  Open window on directory Tools/Sefir-i Mevt Games/Dev Tools/Multiple Component Copy Editor </span>
 Configure any parameters or properties exposed by the script in the Inspector window.
 Save your scene and press the Play button to test the script's functionality.
