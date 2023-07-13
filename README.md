@@ -21,9 +21,6 @@ Locate the script you want to use in the Unity Editor's Project window.
 
 
 ```diff
-
-- **This text is bold and blue.**
-
 + Open window on directory Tools/Sefir-i Mevt Games/Dev Tools/Multiple Component Copy Editor
 ```
 
