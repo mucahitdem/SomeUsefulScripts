@@ -1,4 +1,3 @@
-```diff
 # Project Name
 Unity and C# Useful Scripts
 
@@ -19,8 +18,10 @@ Each script in this repository serves a specific purpose. To use a script, follo
 
 Open your Unity project.
 Locate the script you want to use in the Unity Editor's Project window.
-
+```diff
 + Open window on directory Tools/Sefir-i Mevt Games/Dev Tools/Multiple Component Copy Editor
+```
+
 Configure any parameters or properties exposed by the script in the Inspector window.
 Save your scene and press the Play button to test the script's functionality.
 Feel free to explore the scripts and modify them to suit your specific project needs. Additionally, make sure to read the comments within each script file, as they provide useful information and usage examples.
@@ -42,5 +43,3 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 If you have any questions, suggestions, or feedback, feel free to reach out to us at mucodemirci96@gmail.com
 
 Happy coding!
-
-```
