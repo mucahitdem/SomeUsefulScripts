@@ -18,6 +18,9 @@ Each script in this repository serves a specific purpose. To use a script, follo
 
 Open your Unity project.
 Locate the script you want to use in the Unity Editor's Project window.
+
+- **This text is bold and blue.**
+
 ```diff
 + Open window on directory Tools/Sefir-i Mevt Games/Dev Tools/Multiple Component Copy Editor
 ```
