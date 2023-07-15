@@ -21,7 +21,7 @@ Locate the script you want to use in the Unity Editor's Project window.
 
 
 ```diff
-+ Open window on directory Tools/Sefir-i Mevt Games/Dev Tools/Multiple Component Copy Editor
++ Open window on directory Tools/Sefir-i Mevt Games/Dev Tools/...
 ```
 
 Configure any parameters or properties exposed by the script in the Inspector window.
